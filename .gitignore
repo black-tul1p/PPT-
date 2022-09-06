@@ -1,3 +1,3 @@
 # ignore PPTs
-*\*.pptx
-*\*.txt
+*.pptx
+*.txt
